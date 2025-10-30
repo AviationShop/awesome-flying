@@ -100,7 +100,7 @@
 - [flightastic](https://flightastic.com) `Mobile`
 - [ForeFligth](https://foreflight.com) -  Delivers everything a pilot needs for planning, briefing, filing, and logging flights `Mobile` `PAID`
 - [Air Navigation Pro](https://airnavigation.aero/en/) - Air Navigation Pro is a flight planning and real-time aircraft navigation application for individual and professional pilots all over the world. `Mobile` `PAID`
-- [Airbone](https://github.com/daniele-athome/airborne) - Minimal aircraft management app for small groups
+- [Airborne](https://github.com/daniele-athome/airborne) - Minimal aircraft management app for small groups
 
 ## JavaScript Components
 - [Airport Diagram](https://github.com/Airport-Discovery/airport-diagram) `React`
