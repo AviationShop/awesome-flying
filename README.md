@@ -94,6 +94,7 @@
 ## APIs
 - [AirportDB](https://airportdb.io) - This is a JSON database that contains about 60k airports with their runways, communication frequencies, navaids, countries, and regions information.
 - [OpenAIP](https://www.openaip.net) - Free Worldwide Aviation Database
+- [SkyLink API](https://skylinkapi.com/) `FREE/PAID` - All-in-one aviation REST API: ADS-B, NOTAMs, aerodrome charts, carbon estimates, and ML flight-time prediction.
 
 ## Multi Tools
 - [flylog](https://flylog.io)
